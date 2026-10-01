@@ -46,7 +46,7 @@ Clear, legible, as well as aesthetically pleasing typography is one of the prima
 
 - In general, use sentence-case capitalization and avoid other forms of capitalization such as all-uppercase, all-lowercase, or title case.
   For more information, see [Capitalization](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/).
-- Use left alignment for text. This ensures an even left margin with a irregular right margin- improving document structure.
+- Use left alignment for text. This ensures an even left margin with an irregular right margin—improving document structure.
 - Avoid center-aligned text.
 - Ensure adequate and consistent line spacing - which is the amount of vertical space between two lines of text in a text body. If your site's design determines the line spacing, don't change it. Don't reduce line spacing to fit more text or content; rewrite or edit the text instead.
 
@@ -65,7 +65,7 @@ For more information, see [Capitalization](https://make.wordpress.org/docs/style
 | Key terms | Italicize the first mention of a new term. See [Key terms](https://make.wordpress.org/docs/style-guide/formatting/key-terms/). | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
 | Markup language elements (tags) | Use bold text in code font. Capitalization varies. | **`<link>`**<br />**`<!DOCTYPE html>`** |
 | Mathematical constants and variables | Use italics. | *x/y + z = 4* |  
-| Placeholder variables | Use italicized code text. See [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/). | <var><code>EMAIL_ADDRESS</var></code><br /><var><code>PHONE_NUMBER</var></code> |
+| Placeholder variables | Use italicized code text. See [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/). | <code><var>EMAIL_ADDRESS</var></code><br /><code><var>PHONE_NUMBER</var></code> |
 | Titles of books, movies, articles, posts, papers, and other full-length works | Use italics. See [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/). | *The Gutenberg Block Editor Guide*<br />*WordPress 5.6 “Simone”*<br />*Getting started with WordPress hooks: Introduction* |
 | UI elements or strings | Use sentence-case capitalization. | Navigate to page 4. <br /> Copy the selected items. |
 | URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />See [Link text](https://make.wordpress.org/docs/style-guide/linking/link-text/). |  wordpress.org |

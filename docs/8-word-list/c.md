@@ -176,7 +176,7 @@ Use as a verb to describe closing applications, programs, files, documents, aler
 
 For more information, see [Close](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#close).
 
-See also [open](https://make.wordpress.org/docs/style-guide/word-list/o/#open), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
+See also [open](https://make.wordpress.org/docs/style-guide/word-list/o/#open), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## cloud
 
@@ -334,7 +334,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Initialism for *Cascading Style Sheets*. Use uppercase.
 
-Don't use a filename extension to refer to a type of file. For example, use *CCS file* file rather than *.css file*.
+Don't use a filename extension to refer to a type of file. For example, use *CSS file* rather than *.css file*.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
